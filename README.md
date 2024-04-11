@@ -1,3 +1,6 @@
+### Land Page
+## https://carlosaw.github.io/responsividade/public/index.html
+
 # Exercício Responsividade CSS
 
 Etapas para conclusão do exercício:
